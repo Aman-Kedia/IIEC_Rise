@@ -86,4 +86,4 @@ Press 7 : exit\n""")
             print("You have exhausted max limit")
             break
     input("\nPress any key to Continue...")
-    os.system("clear")
+    
